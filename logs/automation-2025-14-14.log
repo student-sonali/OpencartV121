@@ -1,0 +1,49 @@
+22:47:583[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on Register Link 
+22:47:593[main] INFO  testCases.TC001_AccountRegistrationTest  - Providing customer details... 
+22:59:133[main] INFO  testCases.TC001_AccountRegistrationTest  - ***** Starting TC001_AccountRegistrationTest ****** 
+22:59:343[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on MyAccount Link 
+22:00:204[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on Register Link 
+22:00:208[main] INFO  testCases.TC001_AccountRegistrationTest  - Providing customer details... 
+22:21:374[main] INFO  testCases.TC001_AccountRegistrationTest  - ***** Starting TC001_AccountRegistrationTest ****** 
+22:21:622[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on MyAccount Link 
+22:22:144[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on Register Link 
+22:22:145[main] INFO  testCases.TC001_AccountRegistrationTest  - Providing customer details... 
+22:20:810[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest  - ***** Starting TC001_AccountRegistrationTest ****** 
+22:20:997[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest  - ***** Starting TC001_AccountRegistrationTest ****** 
+22:21:290[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on MyAccount Link 
+22:22:479[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on MyAccount Link 
+22:22:901[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on Register Link 
+22:22:907[TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest  - Providing customer details... 
+22:24:208[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on Register Link 
+22:24:214[TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest  - Providing customer details... 
+22:30:635[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest  - ***** Starting TC001_AccountRegistrationTest ****** 
+22:31:093[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on MyAccount Link 
+22:31:910[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on Register Link 
+22:31:911[TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest  - Providing customer details... 
+22:40:783[main] INFO  testCases.TC001_AccountRegistrationTest  - ***** Starting TC001_AccountRegistrationTest ****** 
+22:41:202[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on MyAccount Link 
+22:41:828[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on Register Link 
+22:41:831[main] INFO  testCases.TC001_AccountRegistrationTest  - Providing customer details... 
+16:58:403[main] INFO  testCases.TC001_AccountRegistrationTest  - ***** Starting TC001_AccountRegistrationTest ****** 
+16:58:881[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on MyAccount Link 
+16:59:473[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on Register Link 
+16:59:476[main] INFO  testCases.TC001_AccountRegistrationTest  - Providing customer details... 
+16:26:954[main] INFO  testCases.TC001_AccountRegistrationTest  - ***** Starting TC001_AccountRegistrationTest ****** 
+16:27:426[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on MyAccount Link 
+16:28:084[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on Register Link 
+16:28:086[main] INFO  testCases.TC001_AccountRegistrationTest  - Providing customer details... 
+16:27:488[main] INFO  testCases.TC001_AccountRegistrationTest  - ***** Starting TC001_AccountRegistrationTest ****** 
+16:27:662[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on MyAccount Link 
+16:28:313[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on Register Link 
+16:28:314[main] INFO  testCases.TC001_AccountRegistrationTest  - Providing customer details... 
+16:11:381[main] INFO  testCases.TC001_AccountRegistrationTest  - ***** Starting TC001_AccountRegistrationTest ****** 
+16:11:862[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on MyAccount Link 
+16:12:492[main] INFO  testCases.TC001_AccountRegistrationTest  - Clicked on Register Link 
+16:12:494[main] INFO  testCases.TC001_AccountRegistrationTest  - Providing customer details... 
+16:22:991[main] INFO  testCases.TC002_LoginTest  - ****Staring TC002_LoginTest
+16:26:477[main] INFO  testCases.TC002_LoginTest  - ****finished TC002_LoginTest
+16:01:882[main] INFO  testCases.TC002_LoginTest  - ****Staring TC002_LoginTest
+16:05:167[main] INFO  testCases.TC002_LoginTest  - ****finished TC002_LoginTest
+15:08:065[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection  - Parsing relationship: /xl/_rels/workbook.xml.rels
+15:08:071[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection  - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+15:08:073[main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection  - Parsing relationship: /_rels/.rels
